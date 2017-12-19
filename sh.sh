@@ -1,2 +1,2 @@
-mcs Program.cs
-mono Program.exe
+mcs Udp.cs
+mono Udp.exe
